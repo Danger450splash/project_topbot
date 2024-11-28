@@ -1,4 +1,4 @@
-# This run's the earth.py
+# This run's the whole application (earth.py)
 
 import earth
 import sys
